@@ -5,17 +5,13 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     </head>
     <body>
-        <script src="script.js"></script>
-
+        <script src="./script.js"></script>
         <h1 style="text-align: center; margin: 5vh">MarketCheck</h1>
         <div class="container h-100 d-flex justify-content-center">         
             <div class="container" my-auto>
                 <div class="row" my-auto style="text-align: center; margin: 5vh">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe 
-                            src="https://www.google.com/maps/d/u/0/embed?mid=1pL_6snMQO2Ocs3i73u7CIj1T6D4gcqjx" 
-                            class="embed-responsive-item"
-                        >
+                        <script src="https://embed.github.com/view/geojson/matthewlee626/marketcheck/master/convertcsv.geojson"></script>
                         </iframe>
                     </div>
                 </div>
@@ -30,5 +26,8 @@
                 </div>
             </div>
         </div>
+        <h2 style="text-align: center; margin: 5vh">News</h2>
+        <p id="news" />
+        
     </body>
 </html>

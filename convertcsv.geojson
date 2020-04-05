@@ -53,9 +53,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 73.99901,40.75001 ]
+       "coordinates":  [ -73.99901,40.75001 ]
     },
     "properties": {
+    "marker-color": 
     "Name":"Ideal Marketplace",
     "Crowdedness":"Good",
     "Fruits and Vegetables":"Good",
