@@ -1,0 +1,101 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.12378,34.09764 ]
+    },
+    "properties": {
+    "Name":"99 Ranch Market",
+    "Crowdedness":"Good",
+    "Fruits and Vegetables":"Good",
+    "Meats and Dairy":"Good",
+    "Home Supplies":"Good",
+    "Comments":"",
+    "Address":"Rolling Ridge Plaza, 345 E Main St, Alhambra, CA 91801"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.12525,34.09553 ]
+    },
+    "properties": {
+    "Name":"Sprouts Farmers Market",
+    "Crowdedness":"Good",
+    "Fruits and Vegetables":"Great",
+    "Meats and Dairy":"Good",
+    "Home Supplies":"Good",
+    "Comments":"",
+    "Address":"150 E Main St, Alhambra CA 91801"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99522,40.745 ]
+    },
+    "properties": {
+    "Name":"Whole Foods Market",
+    "Crowdedness":"OK",
+    "Fruits and Vegetables":"Good",
+    "Meats and Dairy":"OK",
+    "Home Supplies":"Good",
+    "Comments":"",
+    "Address":"250 7th Ave, New York City, NY 10001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.99901,40.75001 ]
+    },
+    "properties": {
+    "Name":"Ideal Marketplace",
+    "Crowdedness":"Good",
+    "Fruits and Vegetables":"Good",
+    "Meats and Dairy":"Great",
+    "Home Supplies":"Good",
+    "Comments":"",
+    "Address":"317 9th Ave, New York City, NY 10001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99758,40.74737 ]
+    },
+    "properties": {
+    "Name":"Gristedes",
+    "Crowdedness":"Good",
+    "Fruits and Vegetables":"Great",
+    "Meats and Dairy":"OK",
+    "Home Supplies":"Good",
+    "Comments":"",
+    "Address":"307 W 26th St, New York City, NY 10001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.002376,40.75071 ]
+    },
+    "properties": {
+    "Name":"Hudson Market",
+    "Crowdedness":"OK",
+    "Fruits and Vegetables":"Good",
+    "Meats and Dairy":"Great",
+    "Home Supplies":"Good",
+    "Comments":"",
+    "Address":"303 10th Ave, New York, NY 10001"
+    }
+  }
+]
+}
