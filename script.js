@@ -11,5 +11,4 @@ function getNews(){
         .then(function(response) {
             console.log(response.json());
         })
-        
 }
